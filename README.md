@@ -1,3 +1,5 @@
+Hi there
+
 # VitePress 📝💨
 
 [![test](https://github.com/vuejs/vitepress/workflows/Test/badge.svg)](https://github.com/vuejs/vitepress/actions)
